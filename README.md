@@ -1,4 +1,4 @@
-# algoritmos para métodos numéricos
+# Algoritmos para Métodos Numéricos
 
 Repositório criado para versionamento dos meus algoritmos para a disciplina de Cálculo Númerico.
 
