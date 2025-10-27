@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1761595126 source:c:\users\mateus\documents\linguagem c\calculo numerico - ufu\bissecao\main.c
+	"tinyexpr.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
+1761585173 c:\users\mateus\documents\linguagem c\calculo numerico - ufu\bissecao\tinyexpr.h
+
+1761585153 source:c:\users\mateus\documents\linguagem c\calculo numerico - ufu\bissecao\tinyexpr.c
+	"tinyexpr.h"
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+	<limits.h>
+
