@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1761789313 source:c:\users\mateus\documents\linguagem c\calculo numerico - ufu\newton\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"tinyexpr.h"
+
+1761782210 source:c:\users\mateus\documents\linguagem c\calculo numerico - ufu\newton\tinyexpr.c
+	"tinyexpr.h"
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+	<limits.h>
+
+1761782210 c:\users\mateus\documents\linguagem c\calculo numerico - ufu\newton\tinyexpr.h
+
