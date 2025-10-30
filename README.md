@@ -5,3 +5,4 @@ Repositório criado para versionamento dos meus algoritmos para a disciplina de 
 ### Zero de funções
 
 `/bissecao`: Método da bisseção.
+`/newton`: Método de Newton.
