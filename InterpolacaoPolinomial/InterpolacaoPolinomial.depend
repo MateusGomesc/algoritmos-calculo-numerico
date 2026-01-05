@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1767624569 source:c:\users\mateus\documents\linguagem c\calculo numerico - ufu\interpolacaopolinomial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lagrange.h"
+	"newton.h"
+
+1767550139 source:c:\users\mateus\documents\linguagem c\calculo numerico - ufu\interpolacaopolinomial\lagrange.c
+	"lagrange.h"
+
+1767544593 c:\users\mateus\documents\linguagem c\calculo numerico - ufu\interpolacaopolinomial\lagrange.h
+
+1767624277 c:\users\mateus\documents\linguagem c\calculo numerico - ufu\interpolacaopolinomial\newton.h
+
+1767623481 source:c:\users\mateus\documents\linguagem c\calculo numerico - ufu\interpolacaopolinomial\newton.c
+	"newton.h"
+	<stdio.h>
+	<stdlib.h>
+
