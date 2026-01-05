@@ -6,4 +6,4 @@ Repositório criado para versionamento dos meus algoritmos para a disciplina de 
 
 `/bissecao`: Método da bisseção. \
 `/newton`: Método de Newton. \
-`/interpolacao polinomial`: Interpolação Polinomial com as Formas de Lagrange e Newton.
+`/interpolacaoPolinomial`: Interpolação Polinomial com as Formas de Lagrange e Newton.
